@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "username": "dmehra2102",
+      "password": "$2b$10$YdB3prT7EjOiPpSo8Qox.OhBYi0F6ocEw3lET77VZeN97FYeZ6KVq",
+      "email": "deepanshumehra2102@gmail.com",
+      "firstname": "Deepanshu",
+      "lastname": "Mehra",
+      "avatar": "https://i.imgur.com/9xEcfJj.png",
+      "createdAt": 1670638319356,
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "FaceWash",
+      "Price": "599",
+      "product_img": "https://loremflickr.com/640/480/random",
+      "description": "Fuga autem fugit. Debitis excepturi optio iusto impedit amet dolorum. Accusantium delectus sapiente facere suscipit rerum voluptatem dolore repellendus. Unde modi suscipit atque dolorem culpa. Occaecati totam et excepturi. Assumenda reiciendis omnis nam ipsa aliquam. Quod quam dolores quis. Eaque dolor odio totam. Id ullam doloremque veritatis molestias explicabo. Tempora quod illo unde aperiam dicta. Reiciendis ad ab quas et culpa. Nobis voluptatum quo amet."
+    },
+
+    {
+      "id": 2,
+      "title": "Lotion",
+      "Price": "499",
+      "product_img": "https://loremflickr.com/640/480/random",
+      "description": "Fuga autem fugit. Debitis excepturi optio iusto impedit amet dolorum. Accusantium delectus sapiente facere suscipit rerum voluptatem dolore repellendus. Unde modi suscipit atque dolorem culpa. Occaecati totam et excepturi. Assumenda reiciendis omnis nam ipsa aliquam. Quod quam dolores quis. Eaque dolor odio totam. Id ullam doloremque veritatis molestias explicabo. Tempora quod illo unde aperiam dicta. Reiciendis ad ab quas et culpa. Nobis voluptatum quo amet."
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "title": "FaceWash",
+      "Price": "599",
+      "product_img": "https://loremflickr.com/640/480/random",
+      "description": "Fuga autem fugit. Debitis excepturi optio iusto impedit amet dolorum. Accusantium delectus sapiente facere suscipit rerum voluptatem dolore repellendus. Unde modi suscipit atque dolorem culpa. Occaecati totam et excepturi. Assumenda reiciendis omnis nam ipsa aliquam. Quod quam dolores quis. Eaque dolor odio totam. Id ullam doloremque veritatis molestias explicabo. Tempora quod illo unde aperiam dicta. Reiciendis ad ab quas et culpa. Nobis voluptatum quo amet."
+    },
+
+    {
+      "id": 2,
+      "title": "Lotion",
+      "Price": "499",
+      "product_img": "https://loremflickr.com/640/480/random",
+      "description": "Fuga autem fugit. Debitis excepturi optio iusto impedit amet dolorum. Accusantium delectus sapiente facere suscipit rerum voluptatem dolore repellendus. Unde modi suscipit atque dolorem culpa. Occaecati totam et excepturi. Assumenda reiciendis omnis nam ipsa aliquam. Quod quam dolores quis. Eaque dolor odio totam. Id ullam doloremque veritatis molestias explicabo. Tempora quod illo unde aperiam dicta. Reiciendis ad ab quas et culpa. Nobis voluptatum quo amet."
+    }
+  ]
+}
